@@ -1,1 +1,1 @@
-This Java project contains basic operations.
+Basic Java Project 
